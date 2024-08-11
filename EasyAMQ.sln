@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAMQ.WebExample", "EasyAMQ.WebExample\EasyAMQ.WebExample.csproj", "{9752F9C1-E7E0-447A-AC2E-41273E91C0C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAMQ", "EasyAMQ\EasyAMQ.csproj", "{6AC737E9-C878-4C42-A4C7-34C1DC0E8C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9752F9C1-E7E0-447A-AC2E-41273E91C0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9752F9C1-E7E0-447A-AC2E-41273E91C0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9752F9C1-E7E0-447A-AC2E-41273E91C0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9752F9C1-E7E0-447A-AC2E-41273E91C0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC737E9-C878-4C42-A4C7-34C1DC0E8C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC737E9-C878-4C42-A4C7-34C1DC0E8C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC737E9-C878-4C42-A4C7-34C1DC0E8C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC737E9-C878-4C42-A4C7-34C1DC0E8C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
